@@ -2,7 +2,7 @@
 
 A full-stack application for recording, storing, and playing videos with a beautiful, responsive interface.
 
-![Demo App](https://ibb.co/hLM3hGc)
+![Demo App](https://postimg.cc/6TnVfYHr)
 
 ## Tech Stack
 

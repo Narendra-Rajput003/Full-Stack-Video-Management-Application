@@ -46,7 +46,7 @@ git clone https://github.com/Narendra-Rajput003/Full-Stack-Video-Management-Appl
 2. Install dependencies:
 
 ```bash
-cd video-management
+cd frontend && cd backend
 npm install
 ```
 3. Create a `.env` file in the `video-management` directory and add the following environment variables:
